@@ -2,7 +2,7 @@
 
 process.stdout.write("digite su contraseña: ");
 
-let contraseñaOculta = "12345678"
+let contraseñaOculta = "contraseña"
 
 
 
