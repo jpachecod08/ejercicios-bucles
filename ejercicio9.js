@@ -16,7 +16,6 @@ process.stdin.on('data',function(data){
 
     do { 
         i++;
-
         if(contraseña === contraseñaOculta){
             console.log("contraseña correcta !!!");
             process.exit();
